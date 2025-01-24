@@ -51,5 +51,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Unity-Junior-Programming.sln"
+    "dotnet.defaultSolution": "Unity-Junior-Programming.sln",
+    "marscode.chatLanguage": "cn"
 }
